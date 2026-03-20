@@ -104,14 +104,6 @@ Kod calistiginda:
 
 Proje klasorunde bulunan asagidaki gorsel, model tahminlerinin gercek fiyatlarla karsilastirilmasini gostermektedir:
 
-`egitim_cikti_grafigi.png`
-
-GitHub README icinde gorseli gostermek icin:
-
-```markdown
-![Egitim Cikti Grafigi](./egitim_cikti_grafigi.png)
-```
-
 Asagida dogrudan onizleme de yer almaktadir:
 
 ![Egitim Cikti Grafigi](./egitim_cikti_grafigi.png)
